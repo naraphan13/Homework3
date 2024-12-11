@@ -60,7 +60,7 @@ text-decoration: none;
 }
 .box{
    display: flex;
-   margin-top: 8%;
+   margin-top: 10%;
    justify-content: center;
     align-items: center;
     text-align: center;
