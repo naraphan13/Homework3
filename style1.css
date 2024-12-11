@@ -1,0 +1,98 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container {
+
+
+    text-align: center;
+    color: white;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+body {
+    height: 100vh;
+    background-size: cover;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; */
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url(./img/pexels-photo-2078266.webp);
+}
+
+button {
+    color: black;
+    background: rgba(0, 221, 255, 0.915);
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.progress-bar {
+    background: white;
+    height: 10px;
+}
+
+.progress {
+    background: rgba(0, 221, 255, 0.915);
+    height: 100%;
+    width: 70%;
+}
+
+.home {
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+margin-right: 80px;
+text-decoration: none;
+
+
+}
+.box{
+   display: flex;
+   margin-top: 13%;
+   justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+ 
+}
+
+.p1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.social{
+    padding: 40px;
+}
+
+.social i {
+    font-size: 30px;
+    margin: 0px 10px;
+border-radius: 50%;
+border: 1px solid rgb(190, 190, 190);
+padding: 5px;
+
+}
+
+.under {
+text-align: center;
+margin-left: 0px;
+font-size: 10px;
+color: white;
+}
+
+hr{
+    margin-top: 85px;
+}
